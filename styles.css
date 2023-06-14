@@ -68,3 +68,6 @@ img:hover {
     filter: blur(.7px)
 }
 
+.highlight {
+    color: aqua;
+}
